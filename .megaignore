@@ -17,5 +17,5 @@
 -dp:android/app/debug
 -dp:android/app/profile
 -dp:android/app/release
--dp:.dart_tool
+-dp:*.dart_tool*
 -s:*
