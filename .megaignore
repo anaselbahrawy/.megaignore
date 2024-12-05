@@ -14,8 +14,8 @@
 -f:*.mp4
 -f:*.docx
 -f:.DS_Store
--d:.idea
 -dp:android/app/debug
 -dp:android/app/profile
 -dp:android/app/release
+-dp:.dart_tool
 -s:*
